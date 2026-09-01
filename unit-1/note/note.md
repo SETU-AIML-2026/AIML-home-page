@@ -1,4 +1,6 @@
-[[toc]]
+## FAQ
+
+Questions and Answers for new students
 
 ## 1. Do I have to read all of this FAQ?
 
