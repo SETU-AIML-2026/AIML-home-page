@@ -3,8 +3,7 @@ icon:
   type: flat-color-icons:faq
 ---
 
-
-## FAQ
+# FAQ
 
 Questions and Answers for new students
 
